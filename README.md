@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sangram Behera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="[https://outlane.co/now/new-shot-programmer-animation/](https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif)">
+img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/https://user-images.githubusercontent.com/75829770/161398595-106efcc0-5b22-4eab-811c-9dfa76393073.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsangram007&label=Profile%20views&color=0e75b6&style=flat" alt="rsangram007" /> </p>
 
 - 🔭 I’m currently working on **Backend part for creating API's using Nodejs , Express , JavaScript and manipulate the data using MongoDb**
