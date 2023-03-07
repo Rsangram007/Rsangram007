@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsangram007" alt="rsangram007" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working on Backend part for creating API's using Nodejs , Express , JavaScript and manipulate the data using MongoDb**
+- 🔭 I’m currently working on ** Backend part for creating API's using Nodejs , Express , JavaScript and manipulate the data using MongoDb**
 
-- 🌱 I’m currently learning **I’m currently learning React Js.**
+- 🌱 I’m currently learning ** React Js.**
 
 - 📫 How to reach me **sangrambeheraa007@gmail.com**
 
